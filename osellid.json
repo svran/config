@@ -1,10 +1,9 @@
 {
-    "code": 0,
-    "data": {
-        "time": 1,
-        "data": {
-            "debug": true
-        }
-    },
-    "msg": "允许调试!"
+  "code": "000000",
+  "result": {
+    "ver": 1,
+    "debug": true,
+    "uploadOneLinkLog": true
+  },
+  "message": "允许调试!"
 }
