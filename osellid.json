@@ -1,9 +1,10 @@
 {
   "code": "000000",
   "result": {
-    "ver": 1,
+    "ver": 2,
     "debug": true,
-    "uploadOneLinkLog": true
+    "uploadOneLinkLog": true,
+    "disableUploadLog": false
   },
   "message": "允许调试!"
 }
