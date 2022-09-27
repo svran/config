@@ -4,6 +4,7 @@
     "ver": 2,
     "debug": true,
     "uploadOneLinkLog": true,
+    "showOrderDetailCount": false,
     "disableUploadLog": false
   },
   "message": "允许调试!"
