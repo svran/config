@@ -5,6 +5,7 @@
     "debug": true,
     "uploadOneLinkLog": true,
     "showOrderDetailCount": false,
+    "bdDetailH5": false,
     "disableUploadLog": false
   },
   "message": "允许调试!"
