@@ -5,6 +5,7 @@
     "debug": true,
     "uploadOneLinkLog": true,
     "showOrderDetailCount": false,
+    "showPayAttrsCount": false,
     "bdDetailH5": false,
     "disableUploadLog": false
   },
