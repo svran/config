@@ -8,6 +8,7 @@
     "showPayAttrsCount": false,
     "bdDetailH5": false,
     "enableBd": false,
+    "ddDialogCloseNotOpenAd": false,
     "disableUploadLog": false
   },
   "message": "允许调试!"
