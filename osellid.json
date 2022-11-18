@@ -8,6 +8,7 @@
     "bdDetailH5": false,
     "enableBd": false,
     "ddDialogCloseNotOpenAd": false,
+    "disableAutoRefUserInfo": true,
     "enableFun": [],
     "enableUatFun": [],
     "disableUploadLog": false
