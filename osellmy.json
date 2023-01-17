@@ -1,0 +1,17 @@
+{
+  "code": "000000",
+  "result": {
+    "ver": 2,
+    "debug": true,
+    "showOrderDetailCount": false,
+    "showPayAttrsCount": false,
+    "bdDetailH5": false,
+    "enableBd": false,
+    "ddDialogCloseNotOpenAd": false,
+    "disableAutoRefUserInfo": false,
+    "enableFun": [],
+    "enableUatFun": [],
+    "disableUploadLog": false
+  },
+  "message": "允许调试!"
+}
