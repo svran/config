@@ -3,15 +3,10 @@
   "result": {
     "ver": 2,
     "debug": true,
-    "showOrderDetailCount": false,
-    "showPayAttrsCount": false,
-    "bdDetailH5": false,
-    "enableBd": false,
-    "ddDialogCloseNotOpenAd": false,
+    "disableUploadLog": false, 
     "disableAutoRefUserInfo": false,
     "enableFun": [],
-    "enableUatFun": [],
-    "disableUploadLog": false
+    "enableUatFun": []
   },
-  "message": "允许调试!"
+  "message": "Osell"
 }
