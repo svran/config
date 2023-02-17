@@ -6,7 +6,8 @@
     "disableUploadLog": false, 
     "disableAutoRefUserInfo": false,
     "enableFun": [],
-    "enableUatFun": []
+    "enableUatFun": [], 
+    "enableTestFun": ["disableUseOldHeader"]
   },
-  "message": "Osell"
+  "message": "OsellId"
 }
