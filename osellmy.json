@@ -7,7 +7,8 @@
     "disableAutoRefUserInfo": false,
     "enableFun": [],
     "enableUatFun": [], 
-    "enableTestFun": []
+    "enableTestFun": [], 
+    "enableOtherFun": []
   },
   "message": "OsellMy"
 }
