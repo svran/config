@@ -5,10 +5,10 @@
     "debug": true,
     "disableUploadLog": false, 
     "disableAutoRefUserInfo": false,
-    "enableFun": [],
-    "enableUatFun": [], 
-    "enableTestFun": [], 
-    "enableOtherFun": []
+    "enableFun": ["disableRemovePrefix0IfNumberString"],
+    "enableUatFun": ["disableRemovePrefix0IfNumberString"], 
+    "enableTestFun": ["disableRemovePrefix0IfNumberString"], 
+    "enableOtherFun": ["disableRemovePrefix0IfNumberString"]
   },
   "message": "OsellMy"
 }
